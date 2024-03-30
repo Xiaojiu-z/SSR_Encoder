@@ -50,10 +50,12 @@ For example：
 
 ## Citation
 ```
-@article{zhang2023ssr,
-  title={Ssr-encoder: Encoding selective subject representation for subject-driven generation},
-  author={Zhang, Yuxuan and Liu, Jiaming and Song, Yiren and Wang, Rui and Tang, Hao and Yu, Jinpeng and Li, Huaxia and Tang, Xu and Hu, Yao and Pan, Han and others},
-  journal={arXiv preprint arXiv:2312.16272},
-  year={2023}
+@misc{zhang2024ssrencoder,
+      title={SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation}, 
+      author={Yuxuan Zhang and Yiren Song and Jiaming Liu and Rui Wang and Jinpeng Yu and Hao Tang and Huaxia Li and Xu Tang and Yao Hu and Han Pan and Zhongliang Jing},
+      year={2024},
+      eprint={2312.16272},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
