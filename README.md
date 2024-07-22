@@ -50,10 +50,11 @@ For example：
 
 ## Citation
 ```
-@article{zhang2023ssr,
+@inproceedings{zhang2024ssr,
   title={Ssr-encoder: Encoding selective subject representation for subject-driven generation},
-  author={Zhang, Yuxuan and Liu, Jiaming and Song, Yiren and Wang, Rui and Tang, Hao and Yu, Jinpeng and Li, Huaxia and Tang, Xu and Hu, Yao and Pan, Han and others},
-  journal={arXiv preprint arXiv:2312.16272},
-  year={2023}
+  author={Zhang, Yuxuan and Song, Yiren and Liu, Jiaming and Wang, Rui and Yu, Jinpeng and Tang, Hao and Li, Huaxia and Tang, Xu and Hu, Yao and Pan, Han and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8069--8078},
+  year={2024}
 }
 ```
